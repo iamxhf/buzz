@@ -43,3 +43,6 @@ Download and run the `.exe` file in the [releases page](https://github.com/chidi
 sudo apt-get install libportaudio2
 sudo snap install buzz
 ```
+
+ggml-medium 语音模型
+https://www.mediafire.com/file/oy8fig7uu1ilh7z/ggml-large.bin/file
